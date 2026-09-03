@@ -1,0 +1,8 @@
+domain: computational_chemistry
+sub_domain: thermochemistry
+direction: inverse
+simulator: tblite
+language: python
+timeout_minutes: 15
+name: co2-solvent-identity
+trap_archetype: sign-or-direction-convention

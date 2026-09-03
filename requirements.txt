@@ -1,0 +1,4 @@
+tblite==0.7.0
+ase
+rdkit
+numpy

@@ -1,0 +1,6 @@
+{
+  "gate": "verify",
+  "passed": true,
+  "fingerprint": "a8b5f49a612450020836fe190f84ea868095232aec20aedee76f564ed766475b",
+  "detail": "inverse: solve() returned 'amine_Proposed'"
+}
